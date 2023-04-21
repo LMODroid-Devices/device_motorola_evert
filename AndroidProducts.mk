@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_evert.mk
+    $(LOCAL_DIR)/lmodroid_evert.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_evert-eng \
-    lineage_evert-user \
-    lineage_evert-userdebug
+    lmodroid_evert-eng \
+    lmodroid_evert-user \
+    lmodroid_evert-userdebug
